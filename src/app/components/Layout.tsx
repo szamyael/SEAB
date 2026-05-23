@@ -21,7 +21,7 @@ export function Layout() {
               <div className="bg-gradient-to-tr from-indigo-600 to-purple-600 p-2.5 rounded-xl text-white shadow-lg shadow-indigo-200 transform hover:scale-110 transition-transform">
                 <BookOpen size={28} />
               </div>
-              <span className="text-2xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-indigo-700 to-purple-700 tracking-tight">ParagraphMaster</span>
+              <span className="text-2xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-indigo-700 to-purple-700 tracking-tight">How2Write</span>
             </div>
 
             {/* Desktop Navigation */}
@@ -103,7 +103,7 @@ export function Layout() {
 
       <footer className="bg-white border-t border-gray-200 mt-12 py-10 relative z-10">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-gray-500 font-medium">
-          <p className="text-lg">© {new Date().getFullYear()} Ddondevelopment. All rights reserved.</p>
+          <p className="text-lg">2026 DdonDevelopment. All rights reserved.</p>
           <p className="mt-2 text-sm text-gray-400">Making writing fun and educational ✨</p>
         </div>
       </footer>

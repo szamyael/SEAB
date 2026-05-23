@@ -44,7 +44,7 @@ export function Home() {
             transition={{ type: "spring", bounce: 0.5 }}
             className="text-5xl md:text-6xl font-black text-gray-900 tracking-tight"
           >
-            Mastering the <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-indigo-600">Paragraph</span>
+            How2Write
           </motion.h1>
           <p className="text-2xl text-gray-700 max-w-2xl mx-auto mt-6 leading-relaxed font-medium">
             Letters form words, words form sentences, and sentences form what we call paragraphs. Let's learn how to structure them perfectly!
@@ -97,7 +97,7 @@ export function Home() {
       <section className="py-12">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-2xl font-bold text-gray-900 mb-2 text-center">Meet the Team</h2>
-          <p className="text-center text-gray-600 mb-8">Our team behind ParagraphMaster.</p>
+          <p className="text-center text-gray-600 mb-8">Our team behind How2Write.</p>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
             <div className="bg-white p-6 rounded-2xl border border-gray-200 shadow-sm flex flex-col items-center">
